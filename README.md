@@ -2,7 +2,7 @@
 
 ![alt text](/assets/output_63_0.png)
 
-In this demo, I am going to implement the paper Denoising Diffusion Probabilistic Models, which presented high-quality image synthesis results using diffusion probabilistic models in 2020, using MN data, which is well-formatted handwritten data.
+In this demo, I am going to implement the paper Denoising Diffusion Probabilistic Models, which presented high-quality image synthesis results using diffusion probabilistic models in 2020, using MNIST data, which is well-formatted handwritten data.
 
 ## Theory
 
